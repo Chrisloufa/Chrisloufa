@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<script src="https://kit.fontawesome.com/f54b8d584c.js" crossorigin="anonymous"></script>
+
 <!--
 **Chrisloufa/Chrisloufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
