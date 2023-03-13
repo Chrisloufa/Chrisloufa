@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :briefcase: Languages and tools
+
+<i class="fa-brands fa-html5 fa-beat"></i>
