@@ -1,5 +1,5 @@
 # Chrisloufa - Full Stack Software Developer
-Welcome to my Github profile! I'm Chrisloufa, a Full Stack Software Developer based in [Location]. This is where I showcase my coding projects and contributions to the developer community. Below, you'll find a summary of everything I've learned from my Code Institute Diploma in Full Stack Software Development.
+Welcome to my Github profile! I'm Chrisloufa, a Full Stack Software Developer based in London. This is where I showcase my coding projects and contributions to the developer community. Below, you'll find a summary of everything I've learned from my Code Institute Diploma in Full Stack Software Development.
 
 ## Technologies
 During the course, I learned and worked with the following technologies:
@@ -36,6 +36,6 @@ In addition to the specific technologies listed above, I also gained a number of
 - Deployment and hosting
 
 ## Contact
-If you'd like to get in touch, please feel free to reach out to me on [LinkedIn] or [email]. I'm always happy to connect with fellow developers and discuss potential collaboration opportunities.
+If you'd like to get in touch, please feel free to reach out to me on ![LinkedIn](https://www.linkedin.com/in/christopher-mcgarry-02761a93/). I'm always happy to connect with fellow developers and discuss potential collaboration opportunities.
 
 Thanks for stopping by!
