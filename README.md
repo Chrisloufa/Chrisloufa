@@ -36,6 +36,7 @@ In addition to the specific technologies listed above, I also gained a number of
 - Deployment and hosting
 
 - 🌱 I’m currently learning Virtual Machines using UTM/Virtualbox, feel free to send me ideas!
+- 🌱 I’m currently learning Cybersecurity through [Tryhackme](https://tryhackme.com/)
 
 ## Contact
 If you'd like to get in touch, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/christopher-mcgarry-02761a93/). I'm always happy to connect with fellow developers and discuss potential collaboration opportunities.
